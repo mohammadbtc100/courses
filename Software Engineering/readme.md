@@ -1,6 +1,6 @@
-Software Engineering
+**Software Engineering**
 
-Student Projects : 
+**Student Projects :** 
 
 **Project 1:**
 	Software Requirement Specification(SRS), Requirement Analysis  and UML
