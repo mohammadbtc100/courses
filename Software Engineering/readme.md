@@ -2,11 +2,11 @@ Software Engineering
 
 Student Projects : 
 
-Project 1:
+**Project 1:**
 	Software Requirement Specification(SRS), Requirement Analysis  and UML
 
-Project 2 : 
-	Enterprise  Application Architecture such as Meta, Google and Banking 	Software Systems and any system you know
+**Project 2 :**
+	Enterprise  Application Architecture such as Blochchain, Meta or Google Products and Banking Software Systems and any system you know
 
 Project 3 : 
 	Application or Service with whatever language you specialize in, 	Implement 	a real program in any language 		you like. This program 	cannot 	include 	phone book, agency, hospital, accounting and  repetitive and cliché 		topics. Also, the project includes codes and documentation.
