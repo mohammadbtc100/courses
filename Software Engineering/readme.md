@@ -8,8 +8,8 @@ Student Projects :
 **Project 2 :**
 	Enterprise  Application Architecture such as Blochchain, Meta or Google Products and Banking Software Systems and any system you know
 
-Project 3 : 
+**Project 3 :** 
 	Application or Service with whatever language you specialize in, 	Implement 	a real program in any language 		you like. This program 	cannot 	include 	phone book, agency, hospital, accounting and  repetitive and cliché 		topics. Also, the project includes codes and documentation.
  
-Present,  Report , Research: 
+**Present,  Report , Research:**
 Explain a topic coherently with concept, structure, advantages, disadvantages 	and  application. Mention some real examples of it and analyze them.
