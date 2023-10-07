@@ -1,0 +1,19 @@
+1-Redis Restful API Service
+Python | Nodejs | Go | Rust | C++
+
+2-Load Balancer for HTTP Request
+*A small conditional HTTP Server that get Request and based on service providers situation forward the Request to them.
+Python | Nodejs | Go | Rust | C++ | Elixir
+
+3-Content Delivery Network
+*recieving a HTTP Request and calling it from resource then store the static content of response,
+If this is requested again, static files will be sent to the user from 
+the CDN and only the dynamic part of the resource will be requested.
+Python | Nodejs | Go | Rust | C++ | Elixir
+
+4-Sorting Algorithms behind a RESTful API Service
+
+5-Searching Algorithms behind a RESTful API Service
+
+6-Web Scraper behind a RESTful API
+*Receiving a Link and scrape it
