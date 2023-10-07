@@ -1,0 +1,85 @@
+1-Wordpress CMS redesign
+UML design, Design Patterns
+Python | Javascript
+Check out how WordPress works and how it's designed
+
+2-Online Shop analysis and Design by UML
+Detect Design Pattern
+Python and Reactjs Fullstack
+https://git.ir/packt-full-stack-react-python-and-graphql/
+
+2-Web Scraping System Analysis and Design
+Detect Design Pattern
+Python and Go
+
+3-Taxi service RESTful API on Cloud Server Analysis and Design
+Detect Design Pattern
+free language
+https://www.hostingadvice.com/how-to/best-free-cloud-hosting/
+
+4-Voating System on Docker Analysis and Design
+Detect Design Pattern
+free language
+
+5-Cryptocurrency Exchange Engine
+Detect Design Pattern
+Python, Javascript and C++ | Rust | Go
+
+6-Crypto Assets Wallet
+Detect Design Pattern
+Javascript(Nodejs) | Rust
+
+7-ATM System Analysis and Design
+Detect Design Pattern
+C++ and QT
+
+8-Airline Ticketing System Analysis and Design
+Detect Design Pattern
+C# | Java | Go | Nodejs
+
+9-Gas Station fuel system Analysis and Design
+Detect Design Pattern
+C++ | Rust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software Engineer Projects for Beginners
+    Multi-Object Tracking and Identification in Panoramic View in Real-Time
+    A Smart Security Surveillance System
+    E-Learning Platform
+    Customer Experience Management
+    Android Local Train Ticketing System
+    Android Task Monitoring 
+    Android Women Safety App 
+Intermediate Software Engineer Projects
+    Let’s Grow Smartly 
+    Setting-Up Personal Home Cloud
+    Daily Route Planner 
+    E-Parking Challan
+    Personality Analysis
+    Online Election System 
+    Doctors on Hand 
+Software Engineer Projects Projects for Experts
+    A Liar Robot
+    Batch Advisory
+    Analyzing sentiments of Facebook Users: A Software System 
+    Detecting Evil Applications on Online Social Networks
+    Revenue Recovery System
+    Secured Mail System
+    Virtual Class Room
+https://www.interviewbit.com/blog/software-engineering-projects/
