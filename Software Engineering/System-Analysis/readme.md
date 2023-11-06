@@ -1,2 +1,2 @@
 **System Analysis**
-</br>The topics of this course are presented with an emphasis on system analysis and project implementation.
+\nThe topics of this course are presented with an emphasis on system analysis and project implementation.
