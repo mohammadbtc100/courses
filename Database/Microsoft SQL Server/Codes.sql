@@ -17,3 +17,14 @@ select * from student as s inner join novels as n on s.id=n.id;
 select * from student s inner join novels n on s.id=n.id;
 
 select s.*,n.name,n.cover from student s inner join novels n on s.id=n.id;
+
+
+select * from student where id=1 or id=2
+ union
+ select * from student where id=2 or id=4;
+
+select * from student where id=1 or id=2
+ intersect
+ select * from student where id=2 or id=4;
+
+
