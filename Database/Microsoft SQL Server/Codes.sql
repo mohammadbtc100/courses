@@ -11,3 +11,9 @@ insert into student(name,score) values('Hadi',17.0);
 insert into student(name,score) values('Mousa',20.0);
 
 select * from student
+
+select * from student inner join novels on student.id=novels.id;
+select * from student as s inner join novels as n on s.id=n.id;
+select * from student s inner join novels n on s.id=n.id;
+
+select s.*,n.name,n.cover from student s inner join novels n on s.id=n.id;
