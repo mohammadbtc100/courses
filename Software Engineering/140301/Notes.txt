@@ -1,5 +1,8 @@
-Configuration
------------------
-Test Automation
-Build Automation
-Release Automation
+1-Configuration Script
+2-Test Automation
+3-Build Automation
+4-Release Automation
+5-Real-Time Software
+6-Embedded Software->BIOS->C, Rust
+7-Software Product Line
+
