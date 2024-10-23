@@ -1,0 +1,8 @@
+1-Front-App(Desktop,Web,Terminal,Mobile,..)
+2-Bussines Logic
+3-MS SQL Server:
+3.1-Join
+3.2-Store Procedure
+3.4-Function
+3.5-Trigger
+3.6-etc 
