@@ -6,3 +6,10 @@
 6-Embedded Software->BIOS->C, Rust
 7-Software Product Line
 
+---------------------
+Training->Internet
+Forecasting
+Decision Making
+Non-Linear Equations
+Logic and Deduction
+
