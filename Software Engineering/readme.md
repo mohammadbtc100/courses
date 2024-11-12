@@ -19,5 +19,7 @@ Explain a topic coherently with concept, structure, advantages, disadvantages 	a
 1. https://online.visual-paradigm.com/diagrams/features/uml-tool/
 2. https://app.diagrams.net/
 3. https://www.smartdraw.com/
+4. https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/
+
 
 
