@@ -16,7 +16,6 @@ Explain a topic coherently with concept, structure, advantages, disadvantages 	a
 
 
 **Useful Links for Diagram**:
-[!CAUTION]
 https://online.visual-paradigm.com/diagrams/features/uml-tool/
 https://app.diagrams.net/
 https://www.smartdraw.com/
