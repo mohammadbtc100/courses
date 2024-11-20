@@ -5,3 +5,7 @@ Partial Class
 Sealed Class
 Interface
 Polymorphism
+
+
+
+https://www.w3-farsi.com/posts/6616/ienumerator-and-ienumerable-csharp/
