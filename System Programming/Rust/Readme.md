@@ -1,3 +1,6 @@
+Rust
+1. https://doc.rust-lang.org/rust-by-example/index.html
+
 Rust-github-book:
 1. https://google.github.io/comprehensive-rust/index.html
 2. https://google.github.io/comprehensive-rust/fa/index.html
