@@ -7,3 +7,6 @@
 **DIESEL**
 1. https://diesel.rs/
 2. https://diesel.rs/guides/getting-started
+
+**SurrealDB**
+1. https://surrealdb.com/docs/
