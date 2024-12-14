@@ -1,0 +1,19 @@
+Algorithm Design:
+Time 3
+DC 4
+DP 3
+Greedy 5
+Backtrack 5
+Score:20
+--------
+Linear Search
+Binary Search(rec,non-rec)
+BubbleSort
+Fibo(rec,non-re)
+Merge-sort
+Quick-sort*
+BST**
+Prim, Kruskal, Dijkstra
+Knapse** 
+NQueen
+Graph Coloring

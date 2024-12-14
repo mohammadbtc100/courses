@@ -1,0 +1,18 @@
+System Programming:
+Assembly
+Compiler
+Interpreter
+Linker
+Object File
+Boot Loader
+Boot Sector
+Add,sub,mult,div
+inc,dec,cbw,...
+CPU registers
+CPU segments=>Code segment, data segment, stack segment
+Flag Register***
+jmp,cmp
+IP register
+Assembly questions-fa.pdf
+Rust questions-fa.pdf
+rust and assembly examples from github
