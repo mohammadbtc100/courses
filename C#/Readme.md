@@ -13,6 +13,8 @@
 1. Each student must implement 5 of the questions related to the course and upload them to their GitHub account along with a report file that includes an explanation of the implemented codes and announce their GitHub account information to the class representative.
 2. The class representative is Mr. Alipour.
 3. The time for uploading files to the student's personal GitHub account is before the exam time.
+4. The Exam is out of 18 points.
+5. The Project Score is unlimited depending on its quality.
 
 # **Advanced Programming 2 :**
 **Final Exam Topics:**
@@ -31,6 +33,8 @@
 4. The project source code must be uploaded
 5. A report file containing an explanation of the codes and the project structure must be uploaded
 6. The class representative is Mr. ...
+7. The Exam is out of 18 points.
+8. The Project Score is unlimited depending on its quality.
 
 # **C#.NET Database Project Topics for Advanced Programming 1 :**
     1. Print Array Elements: Write a program that stores elements in an array and prints them to the console.
