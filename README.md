@@ -1,4 +1,4 @@
-**Dear students, please refer to the relevant course page to receive the following:**
+#Dear students, please refer to the relevant course page to receive the following:
 1. Books
 2. Handouts
 3. Project Topic
