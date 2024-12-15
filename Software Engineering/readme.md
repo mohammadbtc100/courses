@@ -8,10 +8,10 @@ $\color{red}{\textsf{Students in software engineering courses and the software e
 # **Project 2 :** 
 	Implement the clean architecture in a programming language and upload the source code along with a report file detailing the work done to your personal GitHub account before the exam.
 
-**Project 3 :**
+# **Project 3 :**
 	Enterprise  Application Architecture such as Blochchain, Meta or Google Products and Banking Software Systems and any system you know
 
-**Present,  Report , Research:**
+# **Present,  Report , Research:**
 Explain a topic coherently with concept, structure, advantages, disadvantages 	and  application. Mention some real examples of it and analyze them.
 
 
