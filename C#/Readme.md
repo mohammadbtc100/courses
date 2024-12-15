@@ -1,2 +1,19 @@
-**1403/09/20-Advanced Programming 1 :**
-1. The practical exam will be taken from Mr. Younes Ebrahimi's book.
+# **Advanced Programming 1 :**
+**Final Exam Topics:**
+1. Computer and Details
+2. Number base(2,8,10,16)
+3. Algorithms and Flowcharts
+4. Programming concepts
+5. C# and features
+6. dotnet
+7. Classroom handout
+8. Exercise source codes on the GitHub Course page
+
+# **Advanced Programming 2 :**
+**Final Exam Topics:**
+1. Programming concepts
+2. Object-Oriented Programming Concepts
+3. C# and features
+4. dotnet
+5. Classroom handout
+6. Exercise source codes on the GitHub Course page
