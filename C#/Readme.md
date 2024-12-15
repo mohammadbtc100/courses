@@ -8,7 +8,6 @@
 6. dotnet
 7. Classroom handout(Variable, Data Types, Loop, Condition Statements, Array, Struct and etc)
 8. Exercise source codes on the GitHub Course page
-
 <br>**Notes:**
 1. Each student must implement 5 of the questions related to the course and upload them to their GitHub account along with a report file that includes an explanation of the implemented codes and announce their GitHub account information to the class representative.
 2. The class representative is Mr. Alipour.
@@ -23,6 +22,13 @@
 5. Classroom handout
 6. Exercise source codes on the GitHub Course page
 7. Video File and Source Code for working with the Database
+<br>**Notes:**
+1. Each student is required to choose a topic and notify me before implementing it.
+2. All files must be uploaded to the student's personal account on GitHub.
+3. The project files must be uploaded before the exam time.
+4. The project source code must be uploaded
+5. A report file containing an explanation of the codes and the project structure must be uploaded
+6. The class representative is Mr. ...
 
 # **C#.NET Database Project Topics for Advanced Programming 1 :**
     1. Print Array Elements: Write a program that stores elements in an array and prints them to the console.
