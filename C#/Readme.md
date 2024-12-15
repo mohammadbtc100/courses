@@ -9,6 +9,11 @@
 7. Classroom handout(Variable, Data Types, Loop, Condition Statements, Array, Struct and etc)
 8. Exercise source codes on the GitHub Course page
 
+<br>**Notes:**
+1. Each student must implement 5 of the questions related to the course and upload them to their GitHub account along with a report file that includes an explanation of the implemented codes and announce their GitHub account information to the class representative.
+2. The class representative is Mr. Alipour.
+3. The time for uploading files to the student's personal GitHub account is before the exam time.
+
 # **Advanced Programming 2 :**
 **Final Exam Topics:**
 1. Programming concepts
