@@ -8,6 +8,7 @@
 6. dotnet
 7. Classroom handout(Variable, Data Types, Loop, Condition Statements, Array, Struct and etc)
 8. Exercise source codes on the GitHub Course page
+
 <br>**Notes:**
 1. Each student must implement 5 of the questions related to the course and upload them to their GitHub account along with a report file that includes an explanation of the implemented codes and announce their GitHub account information to the class representative.
 2. The class representative is Mr. Alipour.
@@ -22,6 +23,7 @@
 5. Classroom handout
 6. Exercise source codes on the GitHub Course page
 7. Video File and Source Code for working with the Database
+
 <br>**Notes:**
 1. Each student is required to choose a topic and notify me before implementing it.
 2. All files must be uploaded to the student's personal account on GitHub.
