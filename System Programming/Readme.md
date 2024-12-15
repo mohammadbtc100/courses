@@ -4,6 +4,11 @@
 
 <br>The course exam is worth 20 points.
 <br>Students must have uploaded the practical exercise to GitHub before the exam.
+- This text will appear red
++ This text will appear green
+! This text will appear orange
+# This text will appear gray
+@@ This text will appear purple @@
 
 # Notes
 1. Boot Loader
