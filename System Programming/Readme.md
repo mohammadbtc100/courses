@@ -2,8 +2,8 @@
 **Each student is required to complete 3 coding exercises in Rust and upload the source codes and a report file from each of the three exercises to their personal GitHub account, then provide their account ID to the following representatives:**
 1. Ms. Masoumeh Faraj
 
-<br><br>The course exam is worth 20 points.
-Students must have uploaded the practical exercise to GitHub before the exam.
+<br>The course exam is worth 20 points.
+<br>Students must have uploaded the practical exercise to GitHub before the exam.
 
 # Notes
 1. Boot Loader
