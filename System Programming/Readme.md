@@ -4,7 +4,7 @@
 
 <br>The course exam is worth 20 points.
 <br>Students must have uploaded the practical exercise to GitHub before the exam.
-<text color=red>ERROR</text>
+
 # Notes
 1. Boot Loader
 2. Boot Sector
