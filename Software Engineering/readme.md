@@ -1,11 +1,11 @@
 **Software Engineering**
 
 **Student Projects :** 
-
-**Project 1:**
+$\color{red}{\textsf{Students in software engineering courses and the software engineering laboratory must complete projects 1 and 2.}}$
+# **Project 1:**
 	<br>Software Requirement Specification(SRS), Requirement Analysis  and UML with a report file detailing the work done to your personal GitHub account before the exam.
 
-**Project 2 :** 
+# **Project 2 :** 
 	<br>Implement the clean architecture in a programming language and upload the source code along with a report file detailing the work done to your personal GitHub account before the exam.
 
 **Project 3 :**
