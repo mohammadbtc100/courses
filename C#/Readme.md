@@ -12,7 +12,7 @@
 # **Advanced Programming 2 :**
 **Final Exam Topics:**
 1. Programming concepts
-2. Object-Oriented Programming Concepts
+2. Object-Oriented Programming Concepts(Class, Object, Encapsulation, Polymorphism, Inheritance, Partial, Sealed, Abstract and Interface)
 3. C# and features
 4. dotnet
 5. Classroom handout
