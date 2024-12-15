@@ -3,7 +3,7 @@
 **Student Projects :** 
 
 **Project 1:**
-	<br>$\color{Blue}{\textsf{Software Requirement Specification(SRS), Requirement Analysis  and UML with a report file detailing the work done to your personal GitHub account before the exam.}}$
+	<br>$\color{Blue}{\textsf{Software Requirement Specification(SRS), Requirement Analysis  and UML with a report file detailing <br>the work done to your personal GitHub account before the exam.}}$
 
 **Project 2 :** 
 	<br>$\color{Blue}{\textsf{Implement the clean architecture in a programming language and upload the source code along with a report file detailing the work done to your personal GitHub account before the exam.}}$
