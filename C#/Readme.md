@@ -17,3 +17,4 @@
 4. dotnet
 5. Classroom handout
 6. Exercise source codes on the GitHub Course page
+7. Video File and Source Code for working with the Database
