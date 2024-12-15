@@ -6,7 +6,7 @@
 4. Programming concepts
 5. C# and features
 6. dotnet
-7. Classroom handout
+7. Classroom handout(Variable, Data Types, Loop, Condition Statements, Array, Struct and etc)
 8. Exercise source codes on the GitHub Course page
 
 # **Advanced Programming 2 :**
