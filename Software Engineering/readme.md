@@ -17,9 +17,9 @@ Explain a topic coherently with concept, structure, advantages, disadvantages 	a
 **Importance Issues:**
 AI and Machine Learning
 
-    AI-Driven Software Architecture: Investigating how AI can optimize architectural design and decision-making processes in software systems.
-    Generative Design in Software Architecture: Exploring the use of generative design techniques to automate and enhance software architecture creation.
-    Self-Adaptive Systems: Researching architectures that can dynamically adjust their behavior based on changing environments and requirements.
+    1. AI-Driven Software Architecture: Investigating how AI can optimize architectural design and decision-making processes in software systems.
+    2. Generative Design in Software Architecture: Exploring the use of generative design techniques to automate and enhance software architecture creation.
+    3. Self-Adaptive Systems: Researching architectures that can dynamically adjust their behavior based on changing environments and requirements.
 
 Cloud and Edge Computing
 
